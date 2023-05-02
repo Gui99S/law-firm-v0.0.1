@@ -99,7 +99,6 @@ header .btn {
 
 #services {
     background-color: #181818;
-    width: auto;
     height: auto;
 }
 
@@ -113,7 +112,6 @@ header .btn {
 
 #team {
     height: auto;
-    width: auto;
 }
 
 .slide-container {
@@ -226,7 +224,6 @@ header .btn {
 
 #contact {
     background-color: #181818;
-    width: auto;
 }
 
 .contact-btn {
@@ -250,18 +247,18 @@ header .btn {
 }
 
 #whatsapp {
-	width:38px;
-	height:38px;
+    width:38px;
+    height:38px;
     margin: 5px;
     padding: 5px;
-	background-color:#25d366;
-	color:#FFF;
+    background-color:#25d366;
+    color:#FFF;
     display: flex;
     justify-content: center;
     align-items: center;
     text-decoration: none;
-	border-radius: 50%;
-	text-align:center;
+    border-radius: 50%;
+    text-align:center;
     font-size:25px;
 }
 
@@ -279,7 +276,6 @@ iframe {
 #rodape {
     background-color: #101010;
     height: auto;
-    width: auto;
 }
 
 .home_media {
@@ -367,7 +363,6 @@ iframe {
 footer {
     background: #080808;
     bottom: 0;
-    width: auto;
 }
 
 @media(max-wdith: 992px) {
