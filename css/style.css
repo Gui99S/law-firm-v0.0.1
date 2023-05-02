@@ -64,6 +64,7 @@ header {
     url("../img/bg/header.png") no-repeat;
     background-size: cover;
     height: 100vh;
+    width: 100vw;
     background-position: top;
     scroll-snap-align: start;
 }
@@ -98,6 +99,7 @@ header .btn {
 
 #services {
     background-color: #181818;
+    width: auto;
     height: auto;
 }
 
@@ -111,6 +113,7 @@ header .btn {
 
 #team {
     height: auto;
+    width: auto;
 }
 
 .slide-container {
@@ -223,6 +226,7 @@ header .btn {
 
 #contact {
     background-color: #181818;
+    width: auto;
 }
 
 .contact-btn {
@@ -275,6 +279,7 @@ iframe {
 #rodape {
     background-color: #101010;
     height: auto;
+    width: auto;
 }
 
 .home_media {
@@ -362,6 +367,7 @@ iframe {
 footer {
     background: #080808;
     bottom: 0;
+    width: auto;
 }
 
 @media(max-wdith: 992px) {
