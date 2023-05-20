@@ -82,6 +82,7 @@ header p {
 
 header .btn {
     font-family: 'Poppins', sans-serif;
+    transition: 0.5s ease;
 }
 
 .about-content {
@@ -238,6 +239,7 @@ header .btn {
     color: #F8F9FA;
     letter-spacing: 1px;
     margin: 8px 0;
+    transition: 0.5s ease;
 }
 
 .contact-btn:hover {
