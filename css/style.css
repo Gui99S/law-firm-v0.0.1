@@ -268,7 +268,8 @@ header .btn {
 
 iframe {
     margin-top: 12px;
-    width: 460px;
+    width: 240px;
+    height: 240px;
     border-radius: 10px;
 }
 
