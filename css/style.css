@@ -395,11 +395,15 @@ footer {
     header h1 {
         font-size: 60px;
     }
+	
+	header h2 {
+		font-size: 50px;
+	}
 
     header p {
         font-size: 16px;
     }
     iframe {
-        width: 260px;
+        width: 280px;
 	}
 }
